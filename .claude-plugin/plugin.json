@@ -4,5 +4,7 @@
   "description": "Relatórios e ações confirmadas na conta Nvoip",
   "author": {"name": "Nvoip", "url": "https://www.nvoip.com.br/"},
   "homepage": "https://www.nvoip.com.br/mcp-server/",
-  "license": "MIT"
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.nvoip.com.br/politica-de-privacidade/"
 }

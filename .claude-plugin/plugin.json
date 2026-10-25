@@ -6,5 +6,9 @@
   "homepage": "https://www.nvoip.com.br/mcp-server/",
   "license": "MIT",
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://www.nvoip.com.br/politica-de-privacidade/"
+  "privacyPolicyUrl": "https://www.nvoip.com.br/politica-de-privacidade/",
+  "supportUrl": "https://suporte.nvoip.com.br/portal/pt/kb/articles/como-configurar-o-mcp-server-da-nvoip",
+  "repository": "https://github.com/Nvoip/nvoip-claude-plugin",
+  "documentationUrl": "https://suporte.nvoip.com.br/portal/pt/kb/articles/como-configurar-o-mcp-server-da-nvoip",
+  "termsOfServiceUrl": "https://www.nvoip.com.br/documentos/termo-de-uso.pdf"
 }

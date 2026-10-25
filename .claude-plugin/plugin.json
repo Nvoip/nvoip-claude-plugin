@@ -3,5 +3,6 @@
   "version": "1.1.0",
   "description": "Relatórios e ações confirmadas na conta Nvoip",
   "author": {"name": "Nvoip", "url": "https://www.nvoip.com.br/"},
-  "homepage": "https://www.nvoip.com.br/mcp-server/"
+  "homepage": "https://www.nvoip.com.br/mcp-server/",
+  "license": "MIT"
 }

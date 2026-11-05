@@ -1,8 +1,12 @@
 ---
 name: configurar-widget-nvoip
-description: Configura e instala widget Nvoip com prévia e confirmação obrigatórias.
+description: Consulta um widget Nvoip e orienta a instalação. Alterações de widget são feitas no Painel.
 ---
 
-# Configurar o widget Nvoip
+# Instalar o widget Nvoip
 
-Leia com `get_widget_configuration`. Mostre o delta com `prepare_widget_change`; execute exatamente o mesmo payload com `execute_widget_change` somente após confirmação. Use `get_widget_installation` para o código oficial. Diferencie rascunho e publicação. Depois, valide loader HTTP 200, script único e abertura do botão em página controlada. Nunca solicite credenciais.
+1. Liste os widgets com `get_widget_configuration` e identifique o correto pelo `widget_id`.
+2. Para instalação, use `get_widget_installation`; não invente token nem cole credenciais.
+3. Depois de instalar, verifique loader HTTP 200, um único script por página e a abertura do botão em uma página controlada.
+
+Para alterar ou publicar o widget, encaminhe a pessoa para https://painel.nvoip.com.br/widget.

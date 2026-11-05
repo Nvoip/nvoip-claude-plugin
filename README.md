@@ -1,6 +1,6 @@
 # Nvoip para Claude
 
-Este plugin conecta o Claude ao MCP Server oficial da Nvoip e acrescenta skills para orientar jornadas comuns de telefonia e atendimento. Ele ajuda a diagnosticar falhas em ligações, preparar relatórios mensais, configurar o widget do site e iniciar o uso da plataforma.
+Este plugin conecta o Claude ao MCP Server oficial da Nvoip e acrescenta skills para orientar jornadas comuns de telefonia e atendimento. Ele ajuda a diagnosticar falhas em ligações, preparar relatórios mensais, instalar o widget do site e iniciar o uso da plataforma.
 
 O acesso usa OAuth e respeita a conta, o plano, o perfil e as permissões configuradas no Painel Nvoip. As skills não contêm credenciais e não ampliam as permissões do usuário. Alterações operacionais continuam sujeitas às confirmações e políticas expostas pelo servidor MCP.
 
@@ -11,7 +11,7 @@ Compras, renovações, assinaturas e débitos não são executados pelo plugin p
 - Conector remoto: `https://mcp.nvoip.com.br/mcp`
 - Skill de diagnóstico de falhas em ligações
 - Skill de relatório mensal de atendimento
-- Skill de configuração do widget Nvoip
+- Skill de instalação do widget Nvoip
 - Skill de primeiros passos na Nvoip
 
 ## Suporte e privacidade
